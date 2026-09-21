@@ -1,0 +1,692 @@
+{
+  "snapshot": "2026-09-16",
+  "suite": "atfw-full",
+  "chapters": 27,
+  "quality_method": "Mean of combined evaluation aggregates within each run, then mean across runs.",
+  "configurations": [
+    {
+      "config": "gpt-6-astra-medium",
+      "n": 2,
+      "overall": 88.534,
+      "recap": 92.51875,
+      "craft": 84.54899999999999,
+      "spread": 0.1769999999999925,
+      "duration_seconds": 5146.6,
+      "runs": [
+        {
+          "run_id": "20260905T072715-0700-a2dcd0",
+          "overall": 88.44550000000001,
+          "recap": 92.47749999999999,
+          "craft": 84.4125,
+          "duration_seconds": 6110.7
+        },
+        {
+          "run_id": "20260905T102426-0700-0ae2af",
+          "overall": 88.6225,
+          "recap": 92.56,
+          "craft": 84.68549999999999,
+          "duration_seconds": 4182.5
+        }
+      ]
+    },
+    {
+      "config": "gpt-5.6-sol-low",
+      "n": 4,
+      "overall": 86.49725,
+      "recap": 90.88,
+      "craft": 82.114125,
+      "spread": 0.7814999999999941,
+      "duration_seconds": 3015.4,
+      "runs": [
+        {
+          "run_id": "20260824T064731-0700-f4db11",
+          "overall": 86.61449999999999,
+          "recap": 90.6945,
+          "craft": 82.53399999999999,
+          "duration_seconds": 3360.7
+        },
+        {
+          "run_id": "20260824T075534-0700-bbe354",
+          "overall": 86.434,
+          "recap": 91.03800000000001,
+          "craft": 81.8295,
+          "duration_seconds": 3076.4
+        },
+        {
+          "run_id": "20260824T113901-0700-de6076",
+          "overall": 86.86099999999999,
+          "recap": 90.72749999999999,
+          "craft": 82.99449999999999,
+          "duration_seconds": 2939.8
+        },
+        {
+          "run_id": "20260825T155700-0700-7df15b",
+          "overall": 86.0795,
+          "recap": 91.06,
+          "craft": 81.0985,
+          "duration_seconds": 2684.7
+        }
+      ]
+    },
+    {
+      "config": "gpt-5.6-sol-high",
+      "n": 3,
+      "overall": 86.49233333333333,
+      "recap": 91.32683333333334,
+      "craft": 81.65783333333333,
+      "spread": 0.8505000000000109,
+      "duration_seconds": 3133.3,
+      "runs": [
+        {
+          "run_id": "20260824T123832-0700-9fe09b",
+          "overall": 86.7775,
+          "recap": 91.6825,
+          "craft": 81.8725,
+          "duration_seconds": 3150.5
+        },
+        {
+          "run_id": "20260824T160607-0700-c82243",
+          "overall": 85.92699999999999,
+          "recap": 90.925,
+          "craft": 80.929,
+          "duration_seconds": 3184.9
+        },
+        {
+          "run_id": "20260825T210559-0700-e13226",
+          "overall": 86.7725,
+          "recap": 91.373,
+          "craft": 82.172,
+          "duration_seconds": 3064.5
+        }
+      ]
+    },
+    {
+      "config": "gpt-5.6-sol-medium",
+      "n": 3,
+      "overall": 86.4525,
+      "recap": 91.0535,
+      "craft": 81.85133333333333,
+      "spread": 0.8329999999999984,
+      "duration_seconds": 2533.9333333333334,
+      "runs": [
+        {
+          "run_id": "20260711T120000-0700-a90df8",
+          "overall": 86.90299999999999,
+          "recap": 91.18350000000001,
+          "craft": 82.6225,
+          "duration_seconds": 2189.4
+        },
+        {
+          "run_id": "20260723T134011-0700-625382",
+          "overall": 86.3845,
+          "recap": 91.1845,
+          "craft": 81.584,
+          "duration_seconds": 2916.9
+        },
+        {
+          "run_id": "20260826T190243-0700-f05261",
+          "overall": 86.07,
+          "recap": 90.79249999999999,
+          "craft": 81.3475,
+          "duration_seconds": 2495.5
+        }
+      ]
+    },
+    {
+      "config": "claude-opus-5-medium",
+      "n": 2,
+      "overall": 85.5175,
+      "recap": 90.3965,
+      "craft": 80.63875,
+      "spread": 0.09700000000000841,
+      "duration_seconds": 2790.05,
+      "runs": [
+        {
+          "run_id": "20260724T201715-0700-ee7aa6",
+          "overall": 85.566,
+          "recap": 90.3675,
+          "craft": 80.7645,
+          "duration_seconds": 2916.2000000000003
+        },
+        {
+          "run_id": "20260813T133254-0700-2ba99e",
+          "overall": 85.469,
+          "recap": 90.4255,
+          "craft": 80.513,
+          "duration_seconds": 2663.9
+        }
+      ]
+    },
+    {
+      "config": "kimi-k3",
+      "n": 2,
+      "overall": 84.38525000000001,
+      "recap": 90.4385,
+      "craft": 78.33250000000001,
+      "spread": 0.3844999999999885,
+      "duration_seconds": 3227.6,
+      "runs": [
+        {
+          "run_id": "20260728T102728-0700-e67a13",
+          "overall": 84.19300000000001,
+          "recap": 90.56450000000001,
+          "craft": 77.8215,
+          "duration_seconds": 3652.5
+        },
+        {
+          "run_id": "20260814T170103-0700-4da698",
+          "overall": 84.5775,
+          "recap": 90.3125,
+          "craft": 78.8435,
+          "duration_seconds": 2802.7
+        }
+      ]
+    },
+    {
+      "config": "gpt-5.5-medium",
+      "n": 3,
+      "overall": 84.37899999999999,
+      "recap": 90.22416666666668,
+      "craft": 78.5335,
+      "spread": 0.3305000000000007,
+      "duration_seconds": 1969.4,
+      "runs": [
+        {
+          "run_id": "20260808T095517-0700-882f2c",
+          "overall": 84.50399999999999,
+          "recap": 90.4445,
+          "craft": 78.5635,
+          "duration_seconds": 2003.2
+        },
+        {
+          "run_id": "20260811T154125-0700-3478f0",
+          "overall": 84.17349999999999,
+          "recap": 90.495,
+          "craft": 77.8515,
+          "duration_seconds": 1975.5
+        },
+        {
+          "run_id": "20260826T083336-0700-6f9e5d",
+          "overall": 84.45949999999999,
+          "recap": 89.733,
+          "craft": 79.1855,
+          "duration_seconds": 1929.5
+        }
+      ]
+    },
+    {
+      "config": "claude-fable-5-medium",
+      "n": 2,
+      "overall": 84.1435,
+      "recap": 90.5365,
+      "craft": 77.75075000000001,
+      "spread": 0.4939999999999998,
+      "duration_seconds": 2059.85,
+      "runs": [
+        {
+          "run_id": "20260726T114740-0700-9b216a",
+          "overall": 84.3905,
+          "recap": 90.1815,
+          "craft": 78.5995,
+          "duration_seconds": 2201.2
+        },
+        {
+          "run_id": "20260823T162649-0700-6d0351",
+          "overall": 83.8965,
+          "recap": 90.89150000000001,
+          "craft": 76.902,
+          "duration_seconds": 1918.5
+        }
+      ]
+    },
+    {
+      "config": "gpt-5.4-high",
+      "n": 3,
+      "overall": 81.39266666666667,
+      "recap": 90.814,
+      "craft": 71.97133333333333,
+      "spread": 1.483000000000004,
+      "duration_seconds": 2401.0666666666666,
+      "runs": [
+        {
+          "run_id": "20260718T225730-0700-5caa0b",
+          "overall": 80.918,
+          "recap": 91.165,
+          "craft": 70.67150000000001,
+          "duration_seconds": 2311.6
+        },
+        {
+          "run_id": "20260811T223101-0700-71d6bb",
+          "overall": 82.3715,
+          "recap": 91.094,
+          "craft": 73.6485,
+          "duration_seconds": 2474.8
+        },
+        {
+          "run_id": "20260826T091210-0700-5d1b15",
+          "overall": 80.8885,
+          "recap": 90.18299999999999,
+          "craft": 71.594,
+          "duration_seconds": 2416.8
+        }
+      ]
+    },
+    {
+      "config": "gpt-5.4-medium",
+      "n": 3,
+      "overall": 81.23383333333334,
+      "recap": 89.96249999999999,
+      "craft": 72.50516666666665,
+      "spread": 1.0195000000000078,
+      "duration_seconds": 1766.2666666666667,
+      "runs": [
+        {
+          "run_id": "20260808T105453-0700-963c9c",
+          "overall": 80.85849999999999,
+          "recap": 89.58449999999999,
+          "craft": 72.1325,
+          "duration_seconds": 1865.7
+        },
+        {
+          "run_id": "20260811T151053-0700-128cf1",
+          "overall": 81.878,
+          "recap": 90.517,
+          "craft": 73.23949999999999,
+          "duration_seconds": 1704.5
+        },
+        {
+          "run_id": "20260826T095428-0700-5e4686",
+          "overall": 80.965,
+          "recap": 89.786,
+          "craft": 72.14349999999999,
+          "duration_seconds": 1728.6000000000001
+        }
+      ]
+    },
+    {
+      "config": "gpt-5.6-terra-high",
+      "n": 3,
+      "overall": 80.8205,
+      "recap": 90.68066666666667,
+      "craft": 70.96016666666667,
+      "spread": 0.9920000000000044,
+      "duration_seconds": 1508.8,
+      "runs": [
+        {
+          "run_id": "20260719T092538-0700-cc3002",
+          "overall": 80.2105,
+          "recap": 90.471,
+          "craft": 69.9495,
+          "duration_seconds": 1475.1
+        },
+        {
+          "run_id": "20260823T211540-0700-7c4d9e",
+          "overall": 81.2025,
+          "recap": 90.58850000000001,
+          "craft": 71.816,
+          "duration_seconds": 1564.5
+        },
+        {
+          "run_id": "20260826T071926-0700-4855fc",
+          "overall": 81.04849999999999,
+          "recap": 90.9825,
+          "craft": 71.11500000000001,
+          "duration_seconds": 1486.8
+        }
+      ]
+    },
+    {
+      "config": "gpt-5.6-terra-medium",
+      "n": 3,
+      "overall": 80.49116666666667,
+      "recap": 90.0825,
+      "craft": 70.8995,
+      "spread": 0.772500000000008,
+      "duration_seconds": 1471.3333333333333,
+      "runs": [
+        {
+          "run_id": "20260727T074929-0700-4114be",
+          "overall": 80.179,
+          "recap": 89.93350000000001,
+          "craft": 70.4245,
+          "duration_seconds": 1475
+        },
+        {
+          "run_id": "20260811T165259-0700-23c4ef",
+          "overall": 80.343,
+          "recap": 89.64699999999999,
+          "craft": 71.0385,
+          "duration_seconds": 1490.4
+        },
+        {
+          "run_id": "20260826T064031-0700-283bec",
+          "overall": 80.95150000000001,
+          "recap": 90.667,
+          "craft": 71.2355,
+          "duration_seconds": 1448.6
+        }
+      ]
+    },
+    {
+      "config": "claude-sonnet-4-6-medium",
+      "n": 2,
+      "overall": 79.30025,
+      "recap": 87.80600000000001,
+      "craft": 70.795,
+      "spread": 0.12450000000001182,
+      "duration_seconds": 3221.5,
+      "runs": [
+        {
+          "run_id": "20260805T220817-0700-5ca529",
+          "overall": 79.36250000000001,
+          "recap": 88.13900000000001,
+          "craft": 70.5865,
+          "duration_seconds": 3286.3
+        },
+        {
+          "run_id": "20260814T090021-0700-69f2d9",
+          "overall": 79.238,
+          "recap": 87.47300000000001,
+          "craft": 71.0035,
+          "duration_seconds": 3156.7
+        }
+      ]
+    },
+    {
+      "config": "claude-opus-4-8-medium",
+      "n": 2,
+      "overall": 78.57724999999999,
+      "recap": 89.1485,
+      "craft": 68.006,
+      "spread": 1.464500000000001,
+      "duration_seconds": 1646.9,
+      "runs": [
+        {
+          "run_id": "20260724T215829-0700-bca11d",
+          "overall": 79.3095,
+          "recap": 89.84649999999999,
+          "craft": 68.77199999999999,
+          "duration_seconds": 1730.4
+        },
+        {
+          "run_id": "20260814T135722-0700-870f44",
+          "overall": 77.845,
+          "recap": 88.4505,
+          "craft": 67.24000000000001,
+          "duration_seconds": 1563.4
+        }
+      ]
+    },
+    {
+      "config": "gpt-5.6-luna-high",
+      "n": 3,
+      "overall": 78.05149999999999,
+      "recap": 89.48016666666666,
+      "craft": 66.62266666666666,
+      "spread": 1.4650000000000034,
+      "duration_seconds": 2018.8,
+      "runs": [
+        {
+          "run_id": "20260808T141412-0700-161cca",
+          "overall": 77.4665,
+          "recap": 89.1885,
+          "craft": 65.7445,
+          "duration_seconds": 1929.2
+        },
+        {
+          "run_id": "20260811T161636-0700-1f7e43",
+          "overall": 77.75649999999999,
+          "recap": 89.5555,
+          "craft": 65.957,
+          "duration_seconds": 2083.6
+        },
+        {
+          "run_id": "20260826T074617-0700-00b662",
+          "overall": 78.9315,
+          "recap": 89.6965,
+          "craft": 68.1665,
+          "duration_seconds": 2043.6000000000001
+        }
+      ]
+    },
+    {
+      "config": "claude-sonnet-5-high",
+      "n": 2,
+      "overall": 77.47125,
+      "recap": 87.80525,
+      "craft": 67.13725,
+      "spread": 0.1284999999999883,
+      "duration_seconds": 2047.4499999999998,
+      "runs": [
+        {
+          "run_id": "20260726T105857-0700-05cd48",
+          "overall": 77.40700000000001,
+          "recap": 87.6105,
+          "craft": 67.20349999999999,
+          "duration_seconds": 2128.1
+        },
+        {
+          "run_id": "20260813T222015-0700-d1d659",
+          "overall": 77.5355,
+          "recap": 88,
+          "craft": 67.071,
+          "duration_seconds": 1966.8
+        }
+      ]
+    },
+    {
+      "config": "claude-haiku-4-5",
+      "n": 2,
+      "overall": 75.24000000000001,
+      "recap": 85.69925,
+      "craft": 64.78125,
+      "spread": 0.07900000000000773,
+      "duration_seconds": 2948.55,
+      "runs": [
+        {
+          "run_id": "20260808T095521-0700-513c47",
+          "overall": 75.27950000000001,
+          "recap": 85.4795,
+          "craft": 65.0795,
+          "duration_seconds": 3160.6
+        },
+        {
+          "run_id": "20260815T062707-0700-83f99f",
+          "overall": 75.2005,
+          "recap": 85.919,
+          "craft": 64.483,
+          "duration_seconds": 2736.5
+        }
+      ]
+    },
+    {
+      "config": "claude-sonnet-5-medium",
+      "n": 2,
+      "overall": 74.67725,
+      "recap": 85.17474999999999,
+      "craft": 64.18025,
+      "spread": 2.9565000000000055,
+      "duration_seconds": 1458.25,
+      "runs": [
+        {
+          "run_id": "20260726T102313-0700-107e66",
+          "overall": 76.1555,
+          "recap": 86.8325,
+          "craft": 65.479,
+          "duration_seconds": 1538.5
+        },
+        {
+          "run_id": "20260813T210650-0700-16388d",
+          "overall": 73.199,
+          "recap": 83.517,
+          "craft": 62.8815,
+          "duration_seconds": 1378
+        }
+      ]
+    }
+  ],
+  "five_hour": [
+    {
+      "config": "gpt-5.6-sol-low",
+      "provider": "Codex",
+      "quality": 86.49725,
+      "utilization_low": 28,
+      "utilization_high": null,
+      "estimated": false,
+      "lower_bound": false
+    },
+    {
+      "config": "gpt-5.6-sol-high",
+      "provider": "Codex",
+      "quality": 86.49233333333333,
+      "utilization_low": 23,
+      "utilization_high": null,
+      "estimated": false,
+      "lower_bound": false
+    },
+    {
+      "config": "gpt-5.6-sol-medium",
+      "provider": "Codex",
+      "quality": 86.4525,
+      "utilization_low": 25,
+      "utilization_high": null,
+      "estimated": false,
+      "lower_bound": false
+    },
+    {
+      "config": "claude-opus-5-medium",
+      "provider": "Claude",
+      "quality": 85.5175,
+      "utilization_low": 111,
+      "utilization_high": null,
+      "estimated": false,
+      "lower_bound": false
+    },
+    {
+      "config": "kimi-k3",
+      "provider": "Kimi",
+      "quality": 84.38525000000001,
+      "utilization_low": 172,
+      "utilization_high": 230,
+      "estimated": false,
+      "lower_bound": false
+    },
+    {
+      "config": "gpt-5.5-medium",
+      "provider": "Codex",
+      "quality": 84.37899999999999,
+      "utilization_low": 20,
+      "utilization_high": null,
+      "estimated": false,
+      "lower_bound": false
+    },
+    {
+      "config": "claude-fable-5-medium",
+      "provider": "Claude",
+      "quality": 84.1435,
+      "utilization_low": 294.51724137931035,
+      "utilization_high": null,
+      "estimated": true,
+      "lower_bound": false
+    },
+    {
+      "config": "gpt-5.4-high",
+      "provider": "Codex",
+      "quality": 81.39266666666667,
+      "utilization_low": 18,
+      "utilization_high": null,
+      "estimated": false,
+      "lower_bound": false
+    },
+    {
+      "config": "gpt-5.4-medium",
+      "provider": "Codex",
+      "quality": 81.23383333333334,
+      "utilization_low": 13,
+      "utilization_high": null,
+      "estimated": false,
+      "lower_bound": false
+    },
+    {
+      "config": "gpt-5.6-terra-high",
+      "provider": "Codex",
+      "quality": 80.8205,
+      "utilization_low": 13,
+      "utilization_high": null,
+      "estimated": false,
+      "lower_bound": false
+    },
+    {
+      "config": "gpt-5.6-terra-medium",
+      "provider": "Codex",
+      "quality": 80.49116666666667,
+      "utilization_low": 13,
+      "utilization_high": null,
+      "estimated": false,
+      "lower_bound": false
+    },
+    {
+      "config": "claude-sonnet-4-6-medium",
+      "provider": "Claude",
+      "quality": 79.30025,
+      "utilization_low": 105,
+      "utilization_high": null,
+      "estimated": false,
+      "lower_bound": false
+    },
+    {
+      "config": "claude-opus-4-8-medium",
+      "provider": "Claude",
+      "quality": 78.57724999999999,
+      "utilization_low": 83,
+      "utilization_high": null,
+      "estimated": false,
+      "lower_bound": false
+    },
+    {
+      "config": "gpt-5.6-luna-high",
+      "provider": "Codex",
+      "quality": 78.05149999999999,
+      "utilization_low": 1,
+      "utilization_high": null,
+      "estimated": false,
+      "lower_bound": false
+    },
+    {
+      "config": "claude-sonnet-5-high",
+      "provider": "Claude",
+      "quality": 77.47125,
+      "utilization_low": 69,
+      "utilization_high": null,
+      "estimated": false,
+      "lower_bound": false
+    },
+    {
+      "config": "claude-haiku-4-5",
+      "provider": "Claude",
+      "quality": 75.24000000000001,
+      "utilization_low": 49,
+      "utilization_high": null,
+      "estimated": false,
+      "lower_bound": false
+    },
+    {
+      "config": "claude-sonnet-5-medium",
+      "provider": "Claude",
+      "quality": 74.67725,
+      "utilization_low": 42,
+      "utilization_high": null,
+      "estimated": false,
+      "lower_bound": false
+    },
+    {
+      "config": "gpt-6-astra-medium",
+      "provider": "Codex",
+      "quality": 88.534,
+      "utilization_low": 94,
+      "utilization_high": null,
+      "estimated": false,
+      "lower_bound": false
+    }
+  ]
+}

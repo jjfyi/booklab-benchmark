@@ -1,0 +1,557 @@
+{
+  "date": "2026-09-16",
+  "claude_five_hour_pairs": [
+    {
+      "suite": "killing-floor-full",
+      "config": "claude-sonnet-5-medium",
+      "pro": 51,
+      "max": 2,
+      "ratio": 25.5,
+      "proRun": "20260815T072257-0700-eac7e8",
+      "maxRun": "20260801T102027-0700-8b46f5"
+    },
+    {
+      "suite": "killing-floor-full",
+      "config": "claude-sonnet-5-high",
+      "pro": 69,
+      "max": 2,
+      "ratio": 34.5,
+      "proRun": "20260815T133329-0700-248053",
+      "maxRun": "20260731T150747-0700-83d249"
+    },
+    {
+      "suite": "killing-floor-full",
+      "config": "claude-sonnet-4-6-medium",
+      "pro": 84,
+      "max": 3,
+      "ratio": 28,
+      "proRun": "20260816T071830-0700-5de6ed",
+      "maxRun": "20260808T211749-0700-654521"
+    },
+    {
+      "suite": "killing-floor-full",
+      "config": "claude-opus-5-medium",
+      "pro": 118,
+      "max": 4,
+      "ratio": 29.5,
+      "proRun": "20260816T123736-0700-707b4e",
+      "maxRun": "20260731T132955-0700-ec1042"
+    },
+    {
+      "suite": "killing-floor-full",
+      "config": "claude-opus-4-8-medium",
+      "pro": 107,
+      "max": 2,
+      "ratio": 53.5,
+      "proRun": "20260815T175632-0700-a98282",
+      "maxRun": "20260801T105126-0700-ad3122"
+    },
+    {
+      "suite": "killing-floor-full",
+      "config": "claude-haiku-4-5",
+      "pro": 61,
+      "max": 3,
+      "ratio": 20.333333333333332,
+      "proRun": "20260815T114449-0700-de52b1",
+      "maxRun": "20260809T082945-0700-6b1c09"
+    },
+    {
+      "suite": "atfw-full",
+      "config": "claude-sonnet-5-medium",
+      "pro": 42,
+      "max": 1,
+      "ratio": 42,
+      "proRun": "20260813T210650-0700-16388d",
+      "maxRun": "20260726T102313-0700-107e66"
+    },
+    {
+      "suite": "atfw-full",
+      "config": "claude-sonnet-5-high",
+      "pro": 69,
+      "max": 2,
+      "ratio": 34.5,
+      "proRun": "20260813T222015-0700-d1d659",
+      "maxRun": "20260726T105857-0700-05cd48"
+    },
+    {
+      "suite": "atfw-full",
+      "config": "claude-sonnet-4-6-medium",
+      "pro": 105,
+      "max": 2,
+      "ratio": 52.5,
+      "proRun": "20260814T090021-0700-69f2d9",
+      "maxRun": "20260805T220817-0700-5ca529"
+    },
+    {
+      "suite": "atfw-full",
+      "config": "claude-opus-5-medium",
+      "pro": 111,
+      "max": 3,
+      "ratio": 37,
+      "proRun": "20260813T133254-0700-2ba99e",
+      "maxRun": "20260724T201715-0700-ee7aa6"
+    },
+    {
+      "suite": "atfw-full",
+      "config": "claude-opus-4-8-medium",
+      "pro": 83,
+      "max": 3,
+      "ratio": 27.666666666666668,
+      "proRun": "20260814T135722-0700-870f44",
+      "maxRun": "20260724T215829-0700-bca11d"
+    },
+    {
+      "suite": "atfw-full",
+      "config": "claude-haiku-4-5",
+      "pro": 49,
+      "max": 2,
+      "ratio": 24.5,
+      "proRun": "20260815T062707-0700-83f99f",
+      "maxRun": "20260808T095521-0700-513c47"
+    }
+  ],
+  "claude_five_hour_pooled_ratio": 32.724137931034484,
+  "weekly": [
+    {
+      "provider": "Kimi",
+      "config": "kimi-k3",
+      "books": {
+        "atfw-full": {
+          "tier20_values": [35, 47],
+          "tier200_values": [],
+          "ratio_values": null
+        },
+        "killing-floor-full": {
+          "tier20_values": [39, 52],
+          "tier200_values": [],
+          "ratio_values": null
+        }
+      }
+    },
+    {
+      "provider": "Codex",
+      "config": "gpt-6-astra-medium",
+      "books": {
+        "atfw-full": {
+          "tier20_values": [
+            15
+          ],
+          "tier200_values": [
+            1
+          ],
+          "ratio_values": [
+            15
+          ]
+        },
+        "killing-floor-full": {
+          "tier20_values": [
+            20
+          ],
+          "tier200_values": [
+            1
+          ],
+          "ratio_values": [
+            20
+          ]
+        }
+      }
+    },
+    {
+      "provider": "Codex",
+      "config": "gpt-5.6-terra-medium",
+      "books": {
+        "atfw-full": {
+          "tier20_values": [
+            3
+          ],
+          "tier200_values": [
+            0
+          ],
+          "ratio_values": null
+        },
+        "killing-floor-full": {
+          "tier20_values": [
+            3
+          ],
+          "tier200_values": [
+            0
+          ],
+          "ratio_values": null
+        }
+      }
+    },
+    {
+      "provider": "Codex",
+      "config": "gpt-5.4-high",
+      "books": {
+        "atfw-full": {
+          "tier20_values": [
+            3,
+            4,
+            5
+          ],
+          "tier200_values": [],
+          "ratio_values": null
+        },
+        "killing-floor-full": {
+          "tier20_values": [
+            4,
+            5
+          ],
+          "tier200_values": [],
+          "ratio_values": null
+        }
+      }
+    },
+    {
+      "provider": "Codex",
+      "config": "gpt-5.6-terra-high",
+      "books": {
+        "atfw-full": {
+          "tier20_values": [
+            2,
+            3
+          ],
+          "tier200_values": [],
+          "ratio_values": null
+        },
+        "killing-floor-full": {
+          "tier20_values": [
+            2,
+            3,
+            4
+          ],
+          "tier200_values": [],
+          "ratio_values": null
+        }
+      }
+    },
+    {
+      "provider": "Codex",
+      "config": "gpt-5.6-luna-high",
+      "books": {
+        "atfw-full": {
+          "tier20_values": [
+            0
+          ],
+          "tier200_values": [
+            0
+          ],
+          "ratio_values": null
+        },
+        "killing-floor-full": {
+          "tier20_values": [
+            0
+          ],
+          "tier200_values": [
+            0
+          ],
+          "ratio_values": null
+        }
+      }
+    },
+    {
+      "provider": "Codex",
+      "config": "gpt-5.6-sol-medium",
+      "books": {
+        "atfw-full": {
+          "tier20_values": [
+            4,
+            5
+          ],
+          "tier200_values": [],
+          "ratio_values": null
+        },
+        "killing-floor-full": {
+          "tier20_values": [
+            4,
+            6
+          ],
+          "tier200_values": [],
+          "ratio_values": null
+        }
+      }
+    },
+    {
+      "provider": "Codex",
+      "config": "gpt-5.5-medium",
+      "books": {
+        "atfw-full": {
+          "tier20_values": [
+            3,
+            4
+          ],
+          "tier200_values": [
+            0
+          ],
+          "ratio_values": null
+        },
+        "killing-floor-full": {
+          "tier20_values": [
+            5
+          ],
+          "tier200_values": [
+            0
+          ],
+          "ratio_values": null
+        }
+      }
+    },
+    {
+      "provider": "Codex",
+      "config": "gpt-5.4-medium",
+      "books": {
+        "atfw-full": {
+          "tier20_values": [
+            2,
+            4
+          ],
+          "tier200_values": [
+            0
+          ],
+          "ratio_values": null
+        },
+        "killing-floor-full": {
+          "tier20_values": [
+            4
+          ],
+          "tier200_values": [
+            1
+          ],
+          "ratio_values": [
+            4
+          ]
+        }
+      }
+    },
+    {
+      "provider": "Codex",
+      "config": "gpt-5.6-sol-low",
+      "books": {
+        "atfw-full": {
+          "tier20_values": [
+            4
+          ],
+          "tier200_values": [
+            0
+          ],
+          "ratio_values": null
+        },
+        "killing-floor-full": {
+          "tier20_values": [
+            3,
+            4
+          ],
+          "tier200_values": [
+            1
+          ],
+          "ratio_values": [
+            3,
+            4
+          ]
+        }
+      }
+    },
+    {
+      "provider": "Codex",
+      "config": "gpt-5.6-sol-high",
+      "books": {
+        "atfw-full": {
+          "tier20_values": [
+            3
+          ],
+          "tier200_values": [
+            0
+          ],
+          "ratio_values": null
+        },
+        "killing-floor-full": {
+          "tier20_values": [
+            5,
+            7
+          ],
+          "tier200_values": [
+            0
+          ],
+          "ratio_values": null
+        }
+      }
+    },
+    {
+      "provider": "Claude",
+      "config": "claude-opus-4-8-medium",
+      "books": {
+        "atfw-full": {
+          "tier20_values": [
+            5
+          ],
+          "tier200_values": [
+            0
+          ],
+          "ratio_values": null
+        },
+        "killing-floor-full": {
+          "tier20_values": [
+            8
+          ],
+          "tier200_values": [
+            1
+          ],
+          "ratio_values": [
+            8
+          ]
+        }
+      }
+    },
+    {
+      "provider": "Claude",
+      "config": "claude-sonnet-4-6-medium",
+      "books": {
+        "atfw-full": {
+          "tier20_values": [
+            7
+          ],
+          "tier200_values": [
+            0
+          ],
+          "ratio_values": null
+        },
+        "killing-floor-full": {
+          "tier20_values": [
+            6
+          ],
+          "tier200_values": [
+            1
+          ],
+          "ratio_values": [
+            6
+          ]
+        }
+      }
+    },
+    {
+      "provider": "Claude",
+      "config": "claude-fable-5-medium",
+      "books": {
+        "atfw-full": {
+          "tier20_values": [],
+          "tier200_values": [
+            1
+          ],
+          "ratio_values": null
+        },
+        "killing-floor-full": {
+          "tier20_values": [],
+          "tier200_values": [
+            2
+          ],
+          "ratio_values": null
+        }
+      }
+    },
+    {
+      "provider": "Claude",
+      "config": "claude-opus-5-medium",
+      "books": {
+        "atfw-full": {
+          "tier20_values": [
+            8
+          ],
+          "tier200_values": [
+            1
+          ],
+          "ratio_values": [
+            8
+          ]
+        },
+        "killing-floor-full": {
+          "tier20_values": [
+            9
+          ],
+          "tier200_values": [
+            0
+          ],
+          "ratio_values": null
+        }
+      }
+    },
+    {
+      "provider": "Claude",
+      "config": "claude-haiku-4-5",
+      "books": {
+        "atfw-full": {
+          "tier20_values": [
+            3
+          ],
+          "tier200_values": [
+            0
+          ],
+          "ratio_values": null
+        },
+        "killing-floor-full": {
+          "tier20_values": [
+            5
+          ],
+          "tier200_values": [
+            1
+          ],
+          "ratio_values": [
+            5
+          ]
+        }
+      }
+    },
+    {
+      "provider": "Claude",
+      "config": "claude-sonnet-5-medium",
+      "books": {
+        "atfw-full": {
+          "tier20_values": [
+            3
+          ],
+          "tier200_values": [
+            1
+          ],
+          "ratio_values": [
+            3
+          ]
+        },
+        "killing-floor-full": {
+          "tier20_values": [
+            4
+          ],
+          "tier200_values": [
+            0
+          ],
+          "ratio_values": null
+        }
+      }
+    },
+    {
+      "provider": "Claude",
+      "config": "claude-sonnet-5-high",
+      "books": {
+        "atfw-full": {
+          "tier20_values": [
+            4
+          ],
+          "tier200_values": [
+            0
+          ],
+          "ratio_values": null
+        },
+        "killing-floor-full": {
+          "tier20_values": [
+            5
+          ],
+          "tier200_values": [
+            1
+          ],
+          "ratio_values": [
+            5
+          ]
+        }
+      }
+    }
+  ]
+}

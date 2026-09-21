@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="1600" height="1200" preserveAspectRatio="xMinYMin meet" viewBox="0 0 1600 1200" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="1600" height="1200"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-1200)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="0" width="1600" height="1200" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(96%,94%,90%); fill-rule: evenodd;"/>
+			<text x="170" y="1095" style="font-family: Newsreader; font-size: 58px;fill: rgb(9%,23%,42%); stroke:none;" transform="translate(0,2190) scale(1,-1)">A Talent for War</text>
+			<text x="170" y="1048" style="font-family: Arial; font-size: 27px;fill: rgb(14%,14%,13%); stroke:none;" transform="translate(0,2096) scale(1,-1)">18 configurations · Quality versus five-hour use on roughly $20 plans</text>
+			<text x="1479.9677734375" y="1097" style="font-family: Arial-Bold; font-size: 27px;fill: rgb(14%,14%,13%); stroke:none;" transform="translate(0,2194) scale(1,-1)">JJ</text>
+			<text x="1510" y="1097" style="font-family: Arial-Bold; font-size: 27px;fill: rgb(9%,23%,42%); stroke:none;" transform="translate(0,2194) scale(1,-1)">FYI</text>
+			<g transform="">
+				<circle cx="180" cy="995" r="8" style="stroke: rgb(9%,23%,42%); stroke-linecap: butt; stroke-width: 1.5; fill: rgb(9%,23%,42%); fill-rule: evenodd;"/>
+				<text x="200" y="987" style="font-family: Arial; font-size: 24px;fill: rgb(14%,14%,13%); stroke:none;" transform="translate(0,1974) scale(1,-1)">Codex</text>
+				<rect x="297" y="987" width="16" height="16" style="stroke: rgb(14%,14%,13%); stroke-linecap: butt; stroke-width: 1.5; fill: rgb(14%,14%,13%); fill-rule: evenodd;"/>
+				<text x="325" y="987" style="font-family: Arial; font-size: 24px;fill: rgb(14%,14%,13%); stroke:none;" transform="translate(0,1974) scale(1,-1)">Claude</text>
+				<polygon points="430 1005, 421 987, 439 987" style="stroke: rgb(14%,14%,13%); stroke-linecap: butt; stroke-width: 1.5; fill: rgb(84%,60%,21%); fill-rule: evenodd;"/>
+				<text x="450" y="987" style="font-family: Arial; font-size: 24px;fill: rgb(14%,14%,13%); stroke:none;" transform="translate(0,1974) scale(1,-1)">Kimi</text>
+				<rect x="547" y="987" width="16" height="16" style="stroke: rgb(14%,14%,13%); stroke-linecap: butt; stroke-width: 3; fill: rgb(100%,99%,97%); fill-rule: evenodd;"/>
+				<text x="575" y="987" style="font-family: Arial; font-size: 24px;fill: rgb(14%,14%,13%); stroke:none;" transform="translate(0,1974) scale(1,-1)">Estimated</text>
+			</g>
+			<rect x="170" y="215" width="1340" height="685" style="stroke: rgb(14%,14%,13%); stroke-linecap: butt; stroke-width: 1.5; fill: rgb(100%,99%,97%); fill-rule: evenodd;"/>
+			<path d="M 170,215 L 1510,215 Z" style="stroke: rgb(84%,81%,76%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="105.181640625" y="207.0" style="font-family: Arial; font-size: 22px;fill: rgb(43%,41%,38%); stroke:none;" transform="translate(0,414) scale(1,-1)">72.5</text>
+			<path d="M 170,300.625 L 1510,300.625 Z" style="stroke: rgb(84%,81%,76%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="123.529296875" y="292.625" style="font-family: Arial; font-size: 22px;fill: rgb(43%,41%,38%); stroke:none;" transform="translate(0,585) scale(1,-1)">75</text>
+			<path d="M 170,386.25 L 1510,386.25 Z" style="stroke: rgb(84%,81%,76%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="105.181640625" y="378.25" style="font-family: Arial; font-size: 22px;fill: rgb(43%,41%,38%); stroke:none;" transform="translate(0,756) scale(1,-1)">77.5</text>
+			<path d="M 170,471.875 L 1510,471.875 Z" style="stroke: rgb(84%,81%,76%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="123.529296875" y="463.875" style="font-family: Arial; font-size: 22px;fill: rgb(43%,41%,38%); stroke:none;" transform="translate(0,927) scale(1,-1)">80</text>
+			<path d="M 170,557.5 L 1510,557.5 Z" style="stroke: rgb(84%,81%,76%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="105.181640625" y="549.5" style="font-family: Arial; font-size: 22px;fill: rgb(43%,41%,38%); stroke:none;" transform="translate(0,1099) scale(1,-1)">82.5</text>
+			<path d="M 170,643.125 L 1510,643.125 Z" style="stroke: rgb(84%,81%,76%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="123.529296875" y="635.125" style="font-family: Arial; font-size: 22px;fill: rgb(43%,41%,38%); stroke:none;" transform="translate(0,1270) scale(1,-1)">85</text>
+			<path d="M 170,728.75 L 1510,728.75 Z" style="stroke: rgb(84%,81%,76%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="105.181640625" y="720.75" style="font-family: Arial; font-size: 22px;fill: rgb(43%,41%,38%); stroke:none;" transform="translate(0,1441) scale(1,-1)">87.5</text>
+			<path d="M 170,814.375 L 1510,814.375 Z" style="stroke: rgb(84%,81%,76%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="123.529296875" y="806.375" style="font-family: Arial; font-size: 22px;fill: rgb(43%,41%,38%); stroke:none;" transform="translate(0,1612) scale(1,-1)">90</text>
+			<path d="M 170,900 L 1510,900 Z" style="stroke: rgb(84%,81%,76%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="105.181640625" y="892.0" style="font-family: Arial; font-size: 22px;fill: rgb(43%,41%,38%); stroke:none;" transform="translate(0,1784) scale(1,-1)">92.5</text>
+			<path d="M 170,215 L 170,900 Z" style="stroke: rgb(84%,81%,76%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="145.22314453125" y="177" style="font-family: Arial; font-size: 22px;fill: rgb(43%,41%,38%); stroke:none;" transform="translate(0,354) scale(1,-1)">350+</text>
+			<text x="598.3136393229167" y="177" style="font-family: Arial; font-size: 22px;fill: rgb(43%,41%,38%); stroke:none;" transform="translate(0,354) scale(1,-1)">100</text>
+			<text x="1051.0979817708335" y="177" style="font-family: Arial; font-size: 22px;fill: rgb(43%,41%,38%); stroke:none;" transform="translate(0,354) scale(1,-1)">50</text>
+			<path d="M 1510,215 L 1510,900 Z" style="stroke: rgb(84%,81%,76%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="1503.8823242187502" y="177" style="font-family: Arial; font-size: 22px;fill: rgb(43%,41%,38%); stroke:none;" transform="translate(0,354) scale(1,-1)">0</text>
+			<path d="M 170,516.853813 L 1510,516.853813 Z" style="stroke: rgb(9%,23%,42%); stroke-linecap: butt; stroke-width: 2; stroke-dasharray: 8, 7;"/>
+			<path d="M 616.666667,215 L 616.666667,900 Z" style="stroke: rgb(9%,23%,42%); stroke-linecap: butt; stroke-width: 2; stroke-dasharray: 8, 7;"/>
+			<path d="M 1063.333333,215 L 1063.333333,900 Z" style="stroke: rgb(84%,60%,21%); stroke-linecap: butt; stroke-width: 3; stroke-dasharray: 3, 8;"/>
+			<text x="186" y="528.8538125000003" style="font-family: Arial; font-size: 22px;fill: rgb(9%,23%,42%); stroke:none;" transform="translate(0,1057) scale(1,-1)">Field median quality · 81.31</text>
+			<text x="232.89095052083337" y="870" style="font-family: Arial-Bold; font-size: 19px;fill: rgb(43%,41%,38%); stroke:none;" transform="translate(0,1740) scale(1,-1)">NEEDS MORE THAN ONE WINDOW</text>
+			<text x="703.2797851562501" y="870" style="font-family: Arial-Bold; font-size: 19px;fill: rgb(9%,23%,42%); stroke:none;" transform="translate(0,1740) scale(1,-1)">50–100% OF AN ALLOWANCE</text>
+			<text x="1139.4120279947917" y="870" style="font-family: Arial-Bold; font-size: 19px;fill: rgb(9%,23%,42%); stroke:none;" transform="translate(0,1740) scale(1,-1)">UP TO 50% OF AN ALLOWANCE</text>
+			<g transform="">
+				<rect x="586.0133333333333" y="649.8493749999999" width="22.0" height="22.0" style="stroke: rgb(14%,14%,13%); stroke-linecap: butt; stroke-width: 1.5; fill: rgb(14%,14%,13%); fill-rule: evenodd;"/>
+				<path d="M 597.013333,660.849375 L 581.013333,691.789875 Z" style="stroke: rgb(84%,81%,76%); stroke-linecap: butt; stroke-width: 1.5;"/>
+				<text x="493.6617708333333" y="681.789875" style="font-family: Arial-Bold; font-size: 24px;fill: rgb(14%,14%,13%); stroke:none;" transform="translate(0,1363) scale(1,-1)">Opus 5</text>
+				<path d="M 488.026667,622.069813 L 384.4,622.069813 Z" style="stroke: rgb(14%,14%,13%); stroke-linecap: butt; stroke-width: 2;"/>
+				<path d="M 488.026667,615.069813 L 488.026667,629.069813 Z" style="stroke: rgb(14%,14%,13%); stroke-linecap: butt; stroke-width: 2;"/>
+				<path d="M 384.4,615.069813 L 384.4,629.069813 Z" style="stroke: rgb(14%,14%,13%); stroke-linecap: butt; stroke-width: 2;"/>
+				<polygon points="436.2133 635.0698, 424.2133 611.0698, 448.2133 611.0698" style="stroke: rgb(14%,14%,13%); stroke-linecap: butt; stroke-width: 1.5; fill: rgb(84%,60%,21%); fill-rule: evenodd;"/>
+				<path d="M 436.213333,622.069813 L 420.213333,653.789875 Z" style="stroke: rgb(84%,81%,76%); stroke-linecap: butt; stroke-width: 1.5;"/>
+				<text x="324.8578645833333" y="643.789875" style="font-family: Arial-Bold; font-size: 24px;fill: rgb(14%,14%,13%); stroke:none;" transform="translate(0,1287) scale(1,-1)">Kimi K3</text>
+				<rect x="258.1291954022988" y="602.789875" width="22.0" height="22.0" style="stroke: rgb(14%,14%,13%); stroke-linecap: butt; stroke-width: 3; fill: rgb(100%,99%,97%); fill-rule: evenodd;"/>
+				<path d="M 269.129195,613.789875 L 285.129195,577 Z" style="stroke: rgb(84%,81%,76%); stroke-linecap: butt; stroke-width: 1.5;"/>
+				<text x="291.1291954022988" y="567" style="font-family: Arial-Bold; font-size: 24px;fill: rgb(14%,14%,13%); stroke:none;" transform="translate(0,1134) scale(1,-1)">Fable 5 (est.)</text>
+				<rect x="596.7333333333333" y="436.9085625000002" width="22.0" height="22.0" style="stroke: rgb(14%,14%,13%); stroke-linecap: butt; stroke-width: 1.5; fill: rgb(14%,14%,13%); fill-rule: evenodd;"/>
+				<text x="464.37395833333335" y="439.9085625000002" style="font-family: Arial-Bold; font-size: 24px;fill: rgb(14%,14%,13%); stroke:none;" transform="translate(0,879) scale(1,-1)">Sonnet 4.6</text>
+				<rect x="757.5333333333334" y="412.1458124999997" width="22.0" height="22.0" style="stroke: rgb(14%,14%,13%); stroke-linecap: butt; stroke-width: 1.5; fill: rgb(14%,14%,13%); fill-rule: evenodd;"/>
+				<text x="790.5333333333334" y="415.26531249999994" style="font-family: Arial-Bold; font-size: 24px;fill: rgb(14%,14%,13%); stroke:none;" transform="translate(0,830) scale(1,-1)">Opus 4.8</text>
+				<rect x="882.6000000000001" y="374.26531249999994" width="22.0" height="22.0" style="stroke: rgb(14%,14%,13%); stroke-linecap: butt; stroke-width: 1.5; fill: rgb(14%,14%,13%); fill-rule: evenodd;"/>
+				<text x="698.2796875000001" y="377.26531249999994" style="font-family: Arial-Bold; font-size: 24px;fill: rgb(14%,14%,13%); stroke:none;" transform="translate(0,754) scale(1,-1)">Sonnet 5 · high</text>
+				<circle cx="670.2666666666668" cy="764.1645000000002" r="11" style="stroke: rgb(9%,23%,42%); stroke-linecap: butt; stroke-width: 1.5; fill: rgb(9%,23%,42%); fill-rule: evenodd;"/>
+				<text x="692.2666666666668" y="756.1645000000002" style="font-family: Arial-Bold; font-size: 24px;fill: rgb(14%,14%,13%); stroke:none;" transform="translate(0,1512) scale(1,-1)">Astra · medium</text>
+				<circle cx="1259.8666666666668" cy="694.4058124999998" r="11" style="stroke: rgb(9%,23%,42%); stroke-linecap: butt; stroke-width: 1.5; fill: rgb(9%,23%,42%); fill-rule: evenodd;"/>
+				<path d="M 1259.866667,694.405812 L 1275.866667,770.873125 Z" style="stroke: rgb(84%,81%,76%); stroke-linecap: butt; stroke-width: 1.5;"/>
+				<text x="1281.8666666666668" y="760.8731250000001" style="font-family: Arial-Bold; font-size: 24px;fill: rgb(14%,14%,13%); stroke:none;" transform="translate(0,1521) scale(1,-1)">Sol · low</text>
+				<circle cx="1304.5333333333335" cy="694.2374166666667" r="11" style="stroke: rgb(9%,23%,42%); stroke-linecap: butt; stroke-width: 1.5; fill: rgb(9%,23%,42%); fill-rule: evenodd;"/>
+				<path d="M 1304.533333,694.237417 L 1288.533333,732.873125 Z" style="stroke: rgb(84%,81%,76%); stroke-linecap: butt; stroke-width: 1.5;"/>
+				<text x="1173.2208333333335" y="722.8731250000001" style="font-family: Arial-Bold; font-size: 24px;fill: rgb(14%,14%,13%); stroke:none;" transform="translate(0,1445) scale(1,-1)">Sol · high</text>
+				<circle cx="1286.6666666666667" cy="692.8731250000001" r="11" style="stroke: rgb(9%,23%,42%); stroke-linecap: butt; stroke-width: 1.5; fill: rgb(9%,23%,42%); fill-rule: evenodd;"/>
+				<text x="1113.9869791666667" y="684.8731250000001" style="font-family: Arial-Bold; font-size: 24px;fill: rgb(14%,14%,13%); stroke:none;" transform="translate(0,1369) scale(1,-1)">Sol · medium</text>
+				<circle cx="1331.3333333333335" cy="621.8557499999997" r="11" style="stroke: rgb(9%,23%,42%); stroke-linecap: butt; stroke-width: 1.5; fill: rgb(9%,23%,42%); fill-rule: evenodd;"/>
+				<path d="M 1331.333333,621.85575 L 1315.333333,642.697458 Z" style="stroke: rgb(84%,81%,76%); stroke-linecap: butt; stroke-width: 1.5;"/>
+				<text x="1218.6419270833335" y="632.6974583333335" style="font-family: Arial-Bold; font-size: 24px;fill: rgb(14%,14%,13%); stroke:none;" transform="translate(0,1265) scale(1,-1)">GPT-5.5</text>
+				<circle cx="1349.2000000000003" cy="519.5738333333335" r="11" style="stroke: rgb(9%,23%,42%); stroke-linecap: butt; stroke-width: 1.5; fill: rgb(9%,23%,42%); fill-rule: evenodd;"/>
+				<path d="M 1349.2,519.573833 L 1333.2,604.697458 Z" style="stroke: rgb(84%,81%,76%); stroke-linecap: butt; stroke-width: 1.5;"/>
+				<text x="1164.5320312500003" y="594.6974583333335" style="font-family: Arial-Bold; font-size: 24px;fill: rgb(14%,14%,13%); stroke:none;" transform="translate(0,1189) scale(1,-1)">GPT-5.4 · high</text>
+				<circle cx="1393.8666666666668" cy="514.1337916666668" r="11" style="stroke: rgb(9%,23%,42%); stroke-linecap: butt; stroke-width: 1.5; fill: rgb(9%,23%,42%); fill-rule: evenodd;"/>
+				<path d="M 1393.866667,514.133792 L 1377.866667,566.697458 Z" style="stroke: rgb(84%,81%,76%); stroke-linecap: butt; stroke-width: 1.5;"/>
+				<text x="1167.8315104166668" y="556.6974583333335" style="font-family: Arial-Bold; font-size: 24px;fill: rgb(14%,14%,13%); stroke:none;" transform="translate(0,1113) scale(1,-1)">GPT-5.4 · medium</text>
+				<circle cx="1393.8666666666668" cy="499.97712499999983" r="11" style="stroke: rgb(9%,23%,42%); stroke-linecap: butt; stroke-width: 1.5; fill: rgb(9%,23%,42%); fill-rule: evenodd;"/>
+				<path d="M 1393.866667,499.977125 L 1377.866667,528.697458 Z" style="stroke: rgb(84%,81%,76%); stroke-linecap: butt; stroke-width: 1.5;"/>
+				<text x="1239.8549479166668" y="518.6974583333335" style="font-family: Arial-Bold; font-size: 24px;fill: rgb(14%,14%,13%); stroke:none;" transform="translate(0,1037) scale(1,-1)">Terra · high</text>
+				<circle cx="1393.8666666666668" cy="488.6974583333335" r="11" style="stroke: rgb(9%,23%,42%); stroke-linecap: butt; stroke-width: 1.5; fill: rgb(9%,23%,42%); fill-rule: evenodd;"/>
+				<text x="1198.4877604166668" y="480.6974583333335" style="font-family: Arial-Bold; font-size: 24px;fill: rgb(14%,14%,13%); stroke:none;" transform="translate(0,961) scale(1,-1)">Terra · medium</text>
+				<circle cx="1501.0666666666668" cy="405.13887499999964" r="11" style="stroke: rgb(9%,23%,42%); stroke-linecap: butt; stroke-width: 1.5; fill: rgb(9%,23%,42%); fill-rule: evenodd;"/>
+				<text x="1349.7619791666668" y="397.13887499999964" style="font-family: Arial-Bold; font-size: 24px;fill: rgb(14%,14%,13%); stroke:none;" transform="translate(0,794) scale(1,-1)">Luna · high</text>
+				<rect x="1061.2666666666669" y="297.8450000000003" width="22.0" height="22.0" style="stroke: rgb(14%,14%,13%); stroke-linecap: butt; stroke-width: 1.5; fill: rgb(14%,14%,13%); fill-rule: evenodd;"/>
+				<path d="M 1072.266667,308.845 L 1088.266667,329.570813 Z" style="stroke: rgb(84%,81%,76%); stroke-linecap: butt; stroke-width: 1.5;"/>
+				<text x="1094.2666666666669" y="319.57081250000005" style="font-family: Arial-Bold; font-size: 24px;fill: rgb(14%,14%,13%); stroke:none;" transform="translate(0,639) scale(1,-1)">Haiku 4.5</text>
+				<rect x="1123.8000000000002" y="278.57081250000005" width="22.0" height="22.0" style="stroke: rgb(14%,14%,13%); stroke-linecap: butt; stroke-width: 1.5; fill: rgb(14%,14%,13%); fill-rule: evenodd;"/>
+				<text x="1156.8000000000002" y="281.57081250000005" style="font-family: Arial-Bold; font-size: 24px;fill: rgb(14%,14%,13%); stroke:none;" transform="translate(0,563) scale(1,-1)">Sonnet 5 · medium</text>
+			</g>
+			<g transform=" matrix(0,1,-1,0,42,557.5)">
+				<text x="-167.994873046875" y="0" style="font-family: Arial-Bold; font-size: 21px;fill: rgb(14%,14%,13%); stroke:none;" transform="translate(0,0) scale(1,-1)">MEAN BENCHMARK QUALITY  →</text>
+			</g>
+			<text x="345.494384765625" y="124" style="font-family: Arial-Bold; font-size: 23px;fill: rgb(14%,14%,13%); stroke:none;" transform="translate(0,248) scale(1,-1)">SEGMENTED SHARE OF ONE FIVE-HOUR WINDOW CONSUMED  ·  LOWER IS BETTER  →</text>
+			<text x="170" y="64" style="font-family: Arial; font-size: 20px;fill: rgb(43%,41%,38%); stroke:none;" transform="translate(0,128) scale(1,-1)">Three equal-width bands: 350+→100, 100→50, 50→0. Ranges are observed; Fable is estimated.</text>
+			<text x="964.03759765625" y="34" style="font-family: Arial; font-size: 19px;fill: rgb(43%,41%,38%); stroke:none;" transform="translate(0,68) scale(1,-1)">Measurements: July–September 2026 · Empirical Fable estimate</text>
+		</g>
+	</g>
+</svg>
