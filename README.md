@@ -1,4 +1,4 @@
-![Booklab Benchmark: editorial banner with book pages and abstract comparison charts.](assets/brand/booklab-benchmark-repo-header-v1.png)
+![Booklab Benchmark: editorial banner with book pages and abstract comparison charts.](assets/brand/booklab-benchmark-repo-header-v1.jpg)
 
 # Booklab Benchmark
 
