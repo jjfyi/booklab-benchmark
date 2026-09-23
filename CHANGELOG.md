@@ -1,5 +1,11 @@
 # Change history
 
+## 2026-09-23 published baseline
+
+- Linked the published Part Two article.
+- Froze the initial public result set as `booklab-results-2026-09-23`, retaining the September 6 and September 16 evidence snapshots exactly as published.
+- Added a release manifest, checksums, and a verifier. No scores or measurements changed.
+
 ## 2026-09-21 initial public release
 
 - Prepared the reviewed repository for publication as `jjfyi/booklab-benchmark`, including the dated results snapshots and the revisions below.
@@ -22,4 +28,4 @@
 - Added the reviewed full-book five-hour charts and empirical Fable estimates.
 - Added within-provider tier comparisons, cross-vendor weekly context, and the matched-field consistency analysis.
 
-Part Two is not yet published; its supporting results are included in this release.
+Part Two was subsequently published on September 23. Its supporting results in this snapshot remain unchanged.

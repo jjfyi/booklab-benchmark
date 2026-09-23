@@ -19,7 +19,7 @@ You don't need to have read the articles to use these results. Start with the ch
 
 - [Introduction: Booklab Benchmark and knowledge work](https://jjfyi.substack.com/p/booklab-benchmark-knowledge-work) explains the question and the test.
 - [Part One: Flagship models](https://jjfyi.substack.com/p/booklab-benchmark-part-one-flagship-models) reports the initial four-chapter screen.
-- **Part Two: What My Subscription Actually Buys** is in preparation. It compares both complete books and their subscription costs. The supporting results are available below; the article link will be added when it is published.
+- [Part Two: What My Subscription Actually Buys](https://jjfyi.substack.com/p/booklab-benchmark-part-two-quality-subscription-limits) compares both complete books and their subscription costs.
 
 Results snapshot: **September 16, 2026**, using the final Part One evidence dated September 6 and the Part Two evidence dated September 16. These are dated observations, not claims about today's subscription limits.
 
@@ -91,6 +91,10 @@ That is my decision for this task, not a verdict on every kind of knowledge work
 - [Data definitions](data/README.md) and [change history](CHANGELOG.md): how to interpret and track the published results.
 
 This is the maintained public results reference for Booklab Benchmark. Dated data files preserve the evidence behind the articles. Source chapters, private logs, and internal scoring artifacts are not distributed here.
+
+## Dated releases
+
+Published result sets are frozen under [`releases/`](releases/README.md). Each release records its evidence cohort and SHA-256 checksums. Later models are added through a new dated release; an older release is never regenerated.
 
 ## Reuse and attribution
 
