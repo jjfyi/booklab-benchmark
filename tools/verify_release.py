@@ -10,9 +10,13 @@ from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parent.parent
+TEXT_SUFFIXES = {".json", ".md", ".svg"}
 
 
 def digest(path: Path) -> str:
+    # Git may check out text as CRLF on Windows even though the release records LF blobs.
+    if path.suffix in TEXT_SUFFIXES or path.name in {".gitignore", "LICENSE"}:
+        return hashlib.sha256(path.read_bytes().replace(b"\r\n", b"\n")).hexdigest()
     value = hashlib.sha256()
     with path.open("rb") as handle:
         for chunk in iter(lambda: handle.read(1024 * 1024), b""):
@@ -41,7 +45,8 @@ def checksum_path(release_id: str) -> Path:
     data = json.loads(manifest.read_text(encoding="utf-8"))
     if data.get("release_id") != release_id or data.get("status") != "published":
         raise SystemExit("release manifest must match the requested id and have status=published")
-    return release_dir / "checksums.sha256"
+    portable = release_dir / "checksums-portable.sha256"
+    return portable if portable.is_file() else release_dir / "checksums.sha256"
 
 
 def write_checksums(release_id: str) -> None:
